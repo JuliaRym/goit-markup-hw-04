@@ -371,7 +371,7 @@ img {
 .social-media-card .elipse:hover {
   background-color: #404bbf;
 }
-.image {
+/* .image {
   position: relative;
   overflow: hidden;
 }
@@ -388,13 +388,13 @@ img {
   transition: transform 250ms ease-in-out;
 }
 .image:hover .overlay {
-  transform: translateY(0);
-}
-.icon-antenna-1 {
+  transform: translateY(0); */
+
+/* .icon-antenna-1 {
   width: 64px;
   height: 64px;
-}
-.icon-clock-1 {
+} */
+/* .icon-clock-1 {
   width: 64px;
   height: 64px;
 }
@@ -405,7 +405,7 @@ img {
 .icon-astronaut-1 {
   width: 64px;
   height: 64px;
-}
+} */
 .icon-box {
   border-radius: 4px;
   border: 1px solid #8e8f99;

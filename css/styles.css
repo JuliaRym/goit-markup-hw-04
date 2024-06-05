@@ -379,7 +379,9 @@ img {
 .social-media-card .elipse:hover {
   background-color: #404bbf;
 }
-
+.social-media-card .elipse:focus {
+  background-color: #404bbf;
+}
 .box {
   position: relative;
   overflow: hidden;

@@ -307,6 +307,7 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .footer {
@@ -432,6 +433,6 @@ img {
   left: 0;
   bottom: -1px;
 }
-.social-media-item {
+/* .social-media-item {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
+} */

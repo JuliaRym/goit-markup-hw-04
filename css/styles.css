@@ -19,7 +19,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  text-align: center;
+  margin: auto;
   gap: 48px;
   padding-top: 188px;
   padding-bottom: 188px;
@@ -289,6 +289,7 @@ img {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
 }
 .top-line {
   border-bottom: 1px solid #e7e9fc;
